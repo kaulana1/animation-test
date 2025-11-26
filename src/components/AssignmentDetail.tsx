@@ -1,3 +1,4 @@
+import React from "react";
 import { motion } from "framer-motion";
 import { X, Calendar, BookOpen, CheckCircle2, Clock } from "lucide-react";
 import { Button } from "@/components/ui/button";
